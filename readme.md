@@ -3,6 +3,6 @@
 Hello
 
 ```javascript
-console.log('hello wordl');
+console.log('hello world');
 
 ```
